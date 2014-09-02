@@ -1,0 +1,18 @@
+{
+  "name": "mimemap",
+  "version": "0.0.12",
+  "description": "A MIME type mapping.",
+  "main": "mime.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ypyf/mimemap"
+  },
+  "keywords": [
+    "mime"
+  ],
+  "author": "Yan Feng",
+  "license": "MIT"
+}
