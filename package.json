@@ -1,14 +1,14 @@
 {
   "name": "mimemap",
-  "version": "0.0.12",
-  "description": "A MIME type mapping.",
+  "version": "0.0.13",
+  "description": "A MIME type map",
   "main": "mime.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/ypyf/mimemap"
+      "url": "https://github.com/ypyf/mimemapi.git"
   },
   "keywords": [
     "mime"
